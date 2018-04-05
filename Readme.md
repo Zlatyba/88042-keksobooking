@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Abutalipov Artem](https://up.htmlacademy.ru/javascript/13/user/88042).
-* Наставник: `Неизвестно`.
+* Наставник: `Dmitry Lyalin`.
 
 ---
 
